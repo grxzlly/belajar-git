@@ -7,3 +7,5 @@ Day 1
 - Pushing repo
 - Fetch & merge from remote
 - Adding new branch from remote then pull to local
+- Create new branch from remote, pull from remote to local, delete in local, push origin --delete to remote
+
