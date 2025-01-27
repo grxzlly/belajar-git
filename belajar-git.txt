@@ -3,4 +3,7 @@ Day 1
 - Checking status
 - Creating branch
 - Deleting branch
+- Adding/staging new file from local
 - Pushing repo
+- Fetch & merge from remote
+- 
