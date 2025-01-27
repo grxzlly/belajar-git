@@ -1,0 +1,6 @@
+Day 1
+- Initialize git in repo
+- Checking status
+- Creating branch
+- Deleting branch
+- Pushing repo
